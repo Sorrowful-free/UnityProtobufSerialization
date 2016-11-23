@@ -1,0 +1,8 @@
+/Library
+/obj
+/Temp
+*.DS_Store
+/xcode_prebuild
+*.apk
+
+

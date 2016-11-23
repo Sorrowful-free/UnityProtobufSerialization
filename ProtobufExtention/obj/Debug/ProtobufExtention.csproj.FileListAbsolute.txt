@@ -1,0 +1,6 @@
+C:\Repositories\UnityProtobufSerialization\ProtobufExtention\bin\Debug\ProtobufExtention.dll
+C:\Repositories\UnityProtobufSerialization\ProtobufExtention\bin\Debug\ProtobufExtention.pdb
+C:\Repositories\UnityProtobufSerialization\ProtobufExtention\bin\Debug\protobuf-net.dll
+C:\Repositories\UnityProtobufSerialization\ProtobufExtention\obj\Debug\ProtobufExtention.csprojResolveAssemblyReference.cache
+C:\Repositories\UnityProtobufSerialization\ProtobufExtention\obj\Debug\ProtobufExtention.dll
+C:\Repositories\UnityProtobufSerialization\ProtobufExtention\obj\Debug\ProtobufExtention.pdb
